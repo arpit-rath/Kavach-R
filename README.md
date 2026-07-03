@@ -42,7 +42,7 @@ An AI-powered ransomware early warning system that continuously monitors process
 
 3. Display of Flagged Files & System Logs
 
-<div align='center'>
+<div align='left'>
   <img src = 'images/Flagged Processes.jpeg' height="300px" width="500px">
   <img src = 'images/System Log.jpeg' height="300px" width="500px">
 </div>
